@@ -149,9 +149,6 @@ logging.basicConfig(level=logging.WARNING)
 channel = "TheXArmy"
 menu = '''
 
-**NOTICE JOIN @TheXArmy FEDERATION**
-FED ID `2936f6a8-cc1d-4f76-ac1f-ac752fe5caef`
-
 
 A: [check user own groups and channels]
 
